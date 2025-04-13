@@ -34,7 +34,8 @@ This will recommend you books based on input, emotional preference, and category
 | `dotenv`           | Secure environment config       |
 | `requests`         | API requests                    |
 | `json`             | Data serialization              |
-| `ide`              | PyCharm & Jupyter Notebook      |
+| `PyCharm`          | IDE for development             |
+
 
 
 ---
