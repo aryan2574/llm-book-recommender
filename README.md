@@ -44,7 +44,7 @@ This will recommend you books based on input, emotional preference, and category
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/your-username/llm-book-recommender.git
+git clone https://github.com/aryan2574/llm-book-recommender.git
 cd llm-book-recommender
 ```
 2. **Install dependencies**  
